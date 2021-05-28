@@ -1,0 +1,16 @@
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\tcsLearn6.exe
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\tcsLearn6.deps.json
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\tcsLearn6.runtimeconfig.json
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\tcsLearn6.runtimeconfig.dev.json
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\tcsLearn6.dll
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\ref\tcsLearn6.dll
+D:\VS\tcsLearn6\tcsLearn6\bin\Debug\net5.0\tcsLearn6.pdb
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.csproj.AssemblyReference.cache
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.AssemblyInfoInputs.cache
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.AssemblyInfo.cs
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.csproj.CoreCompileInputs.cache
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.dll
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\ref\tcsLearn6.dll
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.pdb
+D:\VS\tcsLearn6\tcsLearn6\obj\Debug\net5.0\tcsLearn6.genruntimeconfig.cache
